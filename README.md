@@ -1,5 +1,5 @@
 # Mental Math Helper 
-#created by: yoyopro18 & stiglcz
+## created by: yoyopro18 & stiglcz
 class Program {
         public static void Main(string[] args) {
             while (true) {
